@@ -1,7 +1,7 @@
 import requests
 
 # Enter your api key here
-api_key = "AIzaSyAQqfzMIorF4mKVjNpXSum46Kz8gy6lb5s"
+api_key = ""
 
 url = "https://maps.googleapis.com/maps/api/staticmap?"
 
