@@ -1,0 +1,12 @@
+#map{
+  margin: auto;
+  width: 512px;
+  padding: 10px;
+  height: 512px;
+}
+#output{
+  margin: auto;
+  width: 250px;
+  padding: 10px;
+  height: 250px;
+}
